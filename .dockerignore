@@ -1,0 +1,12 @@
+node_modules
+local-preparation
+.venv
+.git
+.vercel
+public
+dist
+__pycache__
+.pytest_cache
+tests
+docs
+*.log

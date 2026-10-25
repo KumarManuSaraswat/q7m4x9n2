@@ -1,0 +1,9 @@
+{
+  "retrieved_at": "2026-10-24T20:41:55.014350+00:00",
+  "sha256": "7ee0b803f6b5fc052a92b649d8e232f77ed8356bb05e863f619a3498e56a62c1",
+  "forecast_rows": 18688,
+  "actual_rows": 1488,
+  "source": "https://data.elexon.co.uk/bmrs/api/v1/datasets/",
+  "decision_start": "2026-01-01",
+  "decision_end": "2026-01-31"
+}

@@ -1,0 +1,14 @@
+node_modules/
+local-preparation/
+public/
+dist/
+.venv/
+__pycache__/
+.pytest_cache/
+.vercel/
+*.log
+*.tsbuildinfo
+.env*
+!.env.example
+
+.vercel
