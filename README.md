@@ -2,7 +2,7 @@
 
 A decision-time replay and forecast accuracy portal for GB national wind. Built for the January 2026 day-ahead purchasing challenge with React, TypeScript and Python/FastAPI.
 
-[Live application](https://q7m4x9n2.vercel.app) · [API documentation](https://q7m4x9n2.vercel.app/docs) · [Build checks](https://github.com/KumarManuSaraswat/q7m4x9n2/actions)
+[Video demonstration](https://youtu.be/uGd0qNjvgBo) · [Live application](https://q7m4x9n2.vercel.app) · [API documentation](https://q7m4x9n2.vercel.app/docs) · [Build checks](https://github.com/KumarManuSaraswat/q7m4x9n2/actions)
 
 ## Review the application
 
